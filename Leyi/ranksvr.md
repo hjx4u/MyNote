@@ -8,4 +8,4 @@
 
 ## main
 
-初始化 AllSvr
+初始化 AllSvr + 排序线程 + 备份线程
