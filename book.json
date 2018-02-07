@@ -4,6 +4,7 @@
     "language": "zh",
     "plugins": [
         "expandable-chapters",
+        "anchors",
         "anchor-navigation"
     ],
     "pluginsConfig": {
