@@ -1,2 +1,2 @@
-* [1.1 RankSvr](Leyi/ranksvr.md)
+## [1.1 RankSvr](Leyi/ranksvr.md)
 
