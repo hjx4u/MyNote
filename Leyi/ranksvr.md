@@ -1,7 +1,2 @@
 # RankNew
 
-### Rankdsalf;
-
-[TOC]
-
-sadfasd
