@@ -1,1 +1,2 @@
-sdafds
+* [RankSvr](Leyi/ranksvr.md)
+
