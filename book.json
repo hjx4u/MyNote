@@ -3,7 +3,8 @@
     "description": "stay foolish stay hungry",
     "language": "zh",
     "plugins": [
-        "expandable-chapters"
+        "expandable-chapters",
+        "anchor-navigation"
     ],
     "pluginsConfig": {
         "expandable-chapters":{}
